@@ -1,19 +1,24 @@
-Coffee Shop Sales Analysis (January - June 2023)
+# Coffee Shop Sales Analysis (January - June 2023)
 Overview
 This report presents a comprehensive analysis of the coffee shop sales data from January to June 2023. It includes month-over-month (MoM) percentage changes, trends, and insights into sales performance across different categories and store locations. Additionally, recommendations and resume bullet points based on the analysis are provided.
 
-Monthly Performance Analysis
-Summary Metrics
+# Monthly Performance Analysis
+* Summary Metrics
 January 2023:
+![Screenshot 2024-06-21 231003](https://github.com/user-attachments/assets/da46dec8-a76e-429f-b2d6-b3d1a608f28c)
 
-Total Sales: $82K
-Total Orders: 17,314
-Total Quantity Sold: 24,870 units
+
+* Total Sales: $82K
+* Total Orders: 17,314
+* Total Quantity Sold: 24,870 units
+
 February 2023:
+![Screenshot 2024-06-21 231037](https://github.com/user-attachments/assets/312e4f93-79ec-481c-ad3d-9e9c63597fd4)
 
-Total Sales: $76K (-6.8% MoM)
-Total Orders: 16,359 (-5.5% MoM)
-Total Quantity Sold: 23,550 units (-5.3% MoM)
+* Total Sales: $76K (-6.8% MoM)
+* Total Orders: 16,359 (-5.5% MoM)
+* Total Quantity Sold: 23,550 units (-5.3% MoM)
+
 March 2023:
 
 Total Sales: $99K (+29.8% MoM)
